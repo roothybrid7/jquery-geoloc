@@ -1,0 +1,33 @@
+{
+  "name": "jquery-geoloc",
+  "version": "0.0.0",
+  "description": "jQuery plugin for geolocation API.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/roothybrid7/jquery-geoloc.git"
+  },
+  "keywords": [
+    "jquery",
+    "geolocation"
+  ],
+  "author": {
+    "name": "Satoshi Ohki",
+    "email": "roothybrid7@gmail.com"
+  },
+  "license": "MIT",
+  "licenses": [
+    {"type": "MIT"},
+    {"type": "GPLv2"}
+  ],
+  "dependencies": {
+    "grunt-sample": "~0.1.0",
+    "underscore": "~1.3.3",
+    "grunt-growl": "~0.1.1",
+    "grunt": "~0.3.10",
+    "jquery": "~1.7.2"
+  }
+}
