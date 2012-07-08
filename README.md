@@ -11,13 +11,9 @@ See this:[Geolocation API Specification](http://dev.w3.org/geo/api/spec-source.h
 
 ### Script files.
 
-Uncompressed
+Uncompressed: `dist/jquery-geoloc.js`
 
-    dist/jquery-geoloc.js
-
-Minify
-
-    dist/jquery-geoloc.min.js
+Minify: `dist/jquery-geoloc.min.js`
 
 
 ## Examples
